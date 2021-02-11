@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLTablesGenerator", "SQLTablesGenerator\SQLTablesGenerator.csproj", "{E1510E55-EB2B-4909-8C89-26A64282CB73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1510E55-EB2B-4909-8C89-26A64282CB73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1510E55-EB2B-4909-8C89-26A64282CB73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1510E55-EB2B-4909-8C89-26A64282CB73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1510E55-EB2B-4909-8C89-26A64282CB73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D00FC95B-1701-4976-BA47-28BA8CF46967}
+	EndGlobalSection
+EndGlobal
